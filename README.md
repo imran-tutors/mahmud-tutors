@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmhimran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=devmhimran&theme=black-ice&mode=weekly)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=devmhimran&locale=bn&mode=weekly)](https://git.io/streak-stats)
 
