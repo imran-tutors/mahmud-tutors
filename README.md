@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mahmud Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<a href="https://app.daily.dev/devmhimran"><img src="https://api.daily.dev/devcards/8d9ea7e8c7ac4aeaaf8a2b0b6002f356.png?r=s2p" width="400" alt="Mahmud Hasan Imran's Dev Card"/></a>
+
 - 🔭 I’m currently working on [PostHub](https://github.com/devmhimran/cms-blog-redux)
 
 - 🌱 I’m currently learning **React Redux, Next JS**
