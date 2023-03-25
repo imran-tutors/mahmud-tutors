@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmhimran&show_icons=true&locale=en" alt="devmhimran" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmhimran&" alt="devmhimran" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devmhimran&" alt="devmhimran" /></p>
 
 
 <p align="right"><a href="https://app.daily.dev/devmhimran"><img src="https://api.daily.dev/devcards/8d9ea7e8c7ac4aeaaf8a2b0b6002f356.png?r=s2p" width="300" alt="Mahmud Hasan Imran's Dev Card"/></a></p>
