@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Mahmud Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+
+<a align="right" href="https://app.daily.dev/devmhimran"><img src="https://api.daily.dev/devcards/8d9ea7e8c7ac4aeaaf8a2b0b6002f356.png?r=s2p" width="300" alt="Mahmud Hasan Imran's Dev Card"/></a>
+
 - 🔭 I’m currently working on [PostHub](https://github.com/devmhimran/cms-blog-redux)
 
 - 🌱 I’m currently learning **React Redux, Next JS**
@@ -39,4 +42,3 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmhimran" alt="devmhimran" /></a> </p>
 
-<a href="https://app.daily.dev/devmhimran"><img src="https://api.daily.dev/devcards/8d9ea7e8c7ac4aeaaf8a2b0b6002f356.png?r=s2p" width="300" alt="Mahmud Hasan Imran's Dev Card"/></a>
